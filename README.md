@@ -1,2 +1,3 @@
-# pinterest-clone
- Pinterest clone
+# Sharegram
+
+A social media application.
