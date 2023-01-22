@@ -34,7 +34,7 @@ const Stories = () => {
     },
   ];
   return (
-    <ul className="flex w-full md:w-1/3 justify-center  p-0">
+    <ul className="flex w-full    p-0">
       {story.map((item) => (
         <li className="flex flex-col justify-center items-center mx-2 py-1 px-0.5">
           <img
