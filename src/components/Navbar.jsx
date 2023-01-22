@@ -6,7 +6,7 @@ import { MdOutlineExpandMore } from "react-icons/md";
 const Navbar = () => {
   return (
     <div
-      className="py-1.5 px-2 flex items-center w-100 justify-between md:hidden"
+      className="fixed bg-white py-1.5 px-2 flex items-center w-full justify-between md:hidden"
       style={{ borderBottom: "1px solid lightgray" }}
     >
       <div className="flex items-center">
